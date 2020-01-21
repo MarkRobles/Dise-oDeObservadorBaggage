@@ -1,0 +1,11 @@
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.exe
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.deps.json
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.runtimeconfig.json
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.dll
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\bin\Debug\netcoreapp3.0\DiseñoDeObservador.pdb
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\obj\Debug\netcoreapp3.0\DiseñoDeObservador.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\obj\Debug\netcoreapp3.0\DiseñoDeObservador.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\obj\Debug\netcoreapp3.0\DiseñoDeObservador.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\obj\Debug\netcoreapp3.0\DiseñoDeObservador.dll
+C:\Users\Marcos\source\repos\DiseñoDeObservador\DiseñoDeObservador\obj\Debug\netcoreapp3.0\DiseñoDeObservador.pdb
